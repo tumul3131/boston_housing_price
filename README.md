@@ -29,9 +29,9 @@ This project involves predicting housing prices using a publicly available datas
 ### 4. Model Evaluation
 - R2 Score :
   - R² = 1: The model perfectly predicts the data.
-  -R² = 0: The model does no better than the mean of the dependent variable.
-  -R² < 0: The model is worse than a horizontal line through the mean of the dependent variable.
-   A very high R² (close to 1) suggests a good fit.
+  - R² = 0: The model does no better than the mean of the dependent variable.
+  - R² < 0: The model is worse than a horizontal line through the mean of the dependent variable.
+   # A very high R² (close to 1) suggests a good fit.
 - Mean Absolute Error:
   A lower MAE value indicates a better fit.
 - Mean Squared Error:
